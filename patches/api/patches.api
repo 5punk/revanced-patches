@@ -220,6 +220,18 @@ public final class app/revanced/patches/idaustria/detection/signature/SpoofSigna
 	public static final fun getSpoofSignaturePatch ()Lapp/revanced/patcher/patch/BytecodePatch;
 }
 
+public final class app/revanced/patches/ifunny/misc/noads/DisableAdsPatchKt {
+	public static final fun getNoAdsPatch ()Lapp/revanced/patcher/patch/BytecodePatch;
+}
+
+public final class app/revanced/patches/ifunny/misc/pro/UnlockPremiumPatchKt {
+	public static final fun getUnlockProPatch ()Lapp/revanced/patcher/patch/BytecodePatch;
+}
+
+public final class app/revanced/patches/ifunny/misc/savevideos/DisableAdsPatchKt {
+	public static final fun getUnlockSavePatch ()Lapp/revanced/patcher/patch/BytecodePatch;
+}
+
 public final class app/revanced/patches/inshorts/ad/InshortsAdsPatchKt {
 	public static final fun getHideAdsPatch ()Lapp/revanced/patcher/patch/BytecodePatch;
 }
